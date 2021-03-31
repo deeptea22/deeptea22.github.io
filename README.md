@@ -1,2 +1,2 @@
-# deepthi-portfolio
+# Deepthi M
 My Personal Portfolio
