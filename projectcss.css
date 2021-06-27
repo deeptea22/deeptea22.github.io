@@ -63,7 +63,7 @@ ul.a li::before {
   height:170px;
 }
 .head{
-    width:110%;
+    width:100%;
     background-color:white;
     display:flex;
     padding: 0 0px;
@@ -80,7 +80,7 @@ margin-bottom:40px;
 }
 .head2{
     display:flex;
-    margin-left:50%;
+    margin-left:46%;
     padding: 0px 10px;
     flex-direction:row;
     color: black;
